@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "build": "1",
+  "release_notes": "Initial release of BurstPick.\n\n- AI-powered photo culling for professional photographers\n- Smart clustering and scoring\n- Person detection and face grouping\n- Lightroom catalog import/export\n- XMP sidecar support",
+  "download_url": "https://github.com/Open330/BurstPick-releases/releases/latest",
+  "minimum_os": "14.0",
+  "is_critical": false,
+  "published_at": "2026-02-18T00:00:00Z"
+}
