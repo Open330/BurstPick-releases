@@ -30,4 +30,23 @@ Pre-compiled CoreML model files for BurstPick.
 
 ## License
 
-Each model is subject to its respective upstream open-source license as noted above.
+Each model is subject to its respective upstream open-source license:
+
+| Model | License | File |
+|-------|---------|------|
+| DINOv2 ViT-S/14 | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| CLIP ViT-B/32 | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
+| AdaFace IR-18 | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
+| AdaFace IR-50 | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
+| EdgeFace-S | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| AuraFace | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| TOPIQ-NR | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| MUSIQ | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| MANIQA | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| ViT Aesthetic | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| SmolVLM2-256M | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| SmolVLM2-2B | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| FastVLM 0.5B | Apple Sample Code License / Apple ML Research Model License | [LICENSE-APPLE-SAMPLE-CODE](licenses/LICENSE-APPLE-SAMPLE-CODE), [LICENSE-APPLE-ML-RESEARCH-MODEL](licenses/LICENSE-APPLE-ML-RESEARCH-MODEL) |
+| FastVLM 1.5B | Apple Sample Code License / Apple ML Research Model License | [LICENSE-APPLE-SAMPLE-CODE](licenses/LICENSE-APPLE-SAMPLE-CODE), [LICENSE-APPLE-ML-RESEARCH-MODEL](licenses/LICENSE-APPLE-ML-RESEARCH-MODEL) |
+
+See the `licenses/` directory for full license texts.
