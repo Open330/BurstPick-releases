@@ -1,3 +1,7 @@
+# BurstPick Model Releases
+
+Pre-compiled CoreML model files for BurstPick.
+
 <div><img src="https://quickstart-for-agents.vercel.app/api/header.svg?theme=opencode&logo=BurstPick-releases&title=Manage+BurstPick+release+distribution+and+CoreML+model+assets&font=inter" width="100%" /></div>
 
 ```
@@ -6,10 +10,6 @@ distribution repo hosting pre-compiled CoreML models and DMG downloads.
 Clone https://github.com/Open330/BurstPick-releases and help manage model
 assets, update license documentation, or improve the release workflow.
 ```
-
-# BurstPick Model Releases
-
-Pre-compiled CoreML model files for BurstPick.
 
 ## Models
 
