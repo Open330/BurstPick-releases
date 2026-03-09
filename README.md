@@ -20,13 +20,16 @@ assets, update license documentation, or improve the release workflow.
 ### Face Embedding
 - **AdaFace IR-18** (MIT) - Adaptive face recognition, lightweight
 - **AdaFace IR-50** (MIT) - Adaptive face recognition, standard
+- **EdgeFace-XS** (Apache 2.0) - Efficient edge face recognition, extra-small
 - **EdgeFace-S** (Apache 2.0) - Efficient edge face recognition
 - **AuraFace** (Apache 2.0) - Face embedding model
+- **GhostFaceNets** (MIT) - Lightweight ghost-module face recognition
 
 ### Image Quality Assessment
 - **TOPIQ-NR** (Apache 2.0) - Top-down image quality, no-reference
 - **MUSIQ** (Apache 2.0) - Multi-scale image quality
 - **MANIQA** (Apache 2.0) - Multi-dimension attention network for IQA
+- **NIMA-MobileNet** (Apache 2.0) - Neural image assessment, lightweight
 
 ### Aesthetic Scoring
 - **ViT Aesthetic** (Apache 2.0) - Vision transformer aesthetic predictor
@@ -47,11 +50,14 @@ Each model is subject to its respective upstream open-source license:
 | CLIP ViT-B/32 | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
 | AdaFace IR-18 | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
 | AdaFace IR-50 | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
+| EdgeFace-XS | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | EdgeFace-S | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | AuraFace | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| GhostFaceNets | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
 | TOPIQ-NR | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | MUSIQ | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | MANIQA | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| NIMA-MobileNet | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | ViT Aesthetic | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | SmolVLM2-256M | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | SmolVLM2-2B | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
