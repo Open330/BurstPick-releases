@@ -32,6 +32,7 @@ assets, update license documentation, or improve the release workflow.
 - **NIMA-MobileNet** (Apache 2.0) - Neural image assessment, lightweight
 
 ### Aesthetic Scoring
+- **LAION Aesthetic v1** (MIT) - Bundled linear aesthetic head on top of CLIP embeddings (ships inside the app; no standalone release asset)
 - **ViT Aesthetic** (Apache 2.0) - Vision transformer aesthetic predictor
 
 ### Vision-Language Models
@@ -58,6 +59,7 @@ Each model is subject to its respective upstream open-source license:
 | MUSIQ | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | MANIQA | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | NIMA-MobileNet | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
+| LAION Aesthetic v1 | MIT | [LICENSE-MIT](licenses/LICENSE-MIT) |
 | ViT Aesthetic | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | SmolVLM2-256M | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
 | SmolVLM2-2B | Apache 2.0 | [LICENSE-APACHE-2.0](licenses/LICENSE-APACHE-2.0) |
